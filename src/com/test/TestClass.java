@@ -6,6 +6,7 @@ public class TestClass {
 
 	public static void main(String[] args) {
 		QtestAPIWrapper.createDefect("Test Defect");
+		System.out.println("Test Defect");
 	}
 	
 }
